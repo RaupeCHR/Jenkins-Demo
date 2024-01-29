@@ -1,1 +1,1 @@
-print ("Hi guys and ... welcome to JenkinsShit hoffentlich jetzt!")
+print ("Hi guys and ... welcome to JenkinsShit hoffentlich jetzt oder jetzt!")
