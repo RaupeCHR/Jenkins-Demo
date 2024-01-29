@@ -1,1 +1,1 @@
-print ("Hi guys welcome to JenkinsShit!")
+print ("Hi guys welcome to JenkinsShit ihr luschen!")
